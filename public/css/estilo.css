@@ -1,0 +1,94 @@
+#face{
+	height: 5% !important;
+	min-height: 3% !important;
+	width: 5% !important;
+	min-width: 3% !important;
+}
+
+#dogs{
+	height: 15% !important;
+	min-height: 13% !important;
+	width: 15% !important;
+	min-width: 13% !important;
+
+}
+
+#dogs-big{
+	height: 30% !important;
+	min-height: 20% !important;
+	width: 30% !important;
+	min-width: 20% !important;
+<<<<<<< HEAD
+}
+
+
+.cor-primaria{
+	color: white !important;
+}
+
+.cor-secundaria{
+	color: #396266 !important;
+}
+
+input, textarea, select{
+	border-radius: 2px;
+	border: 2px solid #396266 !important;
+}
+
+input:focus, textarea:focus, select:focus{
+	border-color: #396266;
+	box-shadow: 2px 2px 2px #396266 !important;
+}
+
+ul{
+	list-style-type: none !important;
+}
+
+ul > li{
+	color: black;
+}
+
+.centralizado{
+	display: block;
+	margin: 0 auto;
+}
+
+.doencas li{
+	font-size: 1.5em;
+}
+
+.btn-primary{
+	background-color: #396266 !important;
+	border-color: #396266 !important;
+}
+
+.devicon-facebook-plain{
+	font-size: 4em !important;
+}
+
+.doencas a:hover + .descricao,
+.doencas a:focus + .descricao {
+	border-radius: 2px;
+	font-size: 0.7em;
+    display: block;
+}
+.doencas a:hover,
+.doencas a:focus {
+    background-color: #396266;
+    border-radius: 2px;
+    color: white;
+}
+
+.doencas .descricao {
+    position: absolute;
+    height: auto;
+    top: -200px;
+    left: 30%;
+    right: 4em;
+    background-color: #396266;
+    color: #fff;
+    padding: 1.5em;
+    display: none;
+=======
+>>>>>>> 0e9538430c9795c755a816ef54541509ba86d8a9
+}
